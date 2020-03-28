@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">HomeworkAssignment2</string>
+
+    <string-array name="restaurantname">
+        <item>McDonalds Auburn</item>
+        <item>Mejico</item>
+        <item>Holy Basil</item>
+        <item>The Spice Room </item>
+        <item>Temasek</item>
+        <item>Devon</item>
+        <item>Jasmin1</item>
+        <item>Cho Cho San</item>
+        <item>Hello Auntie</item>
+        <item>Bay Vista</item>
+        <item>Seabay Kitchen</item>
+        <item>Miles n Co</item>
+
+
+
+    </string-array>
+
+
+    <string-array name="cuisine">
+        <item>Fast Food</item>
+        <item>Mexican</item>
+        <item>Thai</item>
+        <item>Indian</item>
+        <item>Malaysian</item>
+        <item>Cafe Food</item>
+        <item>Lebanese</item>
+        <item>Japanese</item>
+        <item>Vietnamese</item>
+        <item>Desserts</item>
+        <item>Chinese</item>
+        <item>Cafe Food</item>
+
+    </string-array>
+
+
+    <string-array name="location">
+        <item>Auburn</item>
+        <item>CBD</item>
+        <item>CBD</item>
+        <item>Circular Quay</item>
+        <item>Parramatta</item>
+        <item>Surry Hills</item>
+        <item>Auburn</item>
+        <item>Potts Point</item>
+        <item>Haymarket</item>
+        <item>Brighton-Le-Sands</item>
+        <item>Eastwood</item>
+        <item>The Galeries</item>
+
+    </string-array>
+
+
+
+</resources>

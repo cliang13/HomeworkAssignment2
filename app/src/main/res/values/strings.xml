@@ -1,35 +1,35 @@
 <resources>
     <string name="app_name">HomeworkAssignment2</string>
 
+
     <string-array name="restaurantname">
-        <item>McDonalds Auburn</item>
-        <item>Mejico</item>
+        <item>Cho Cho San</item>
+        <item>Méjico</item>
         <item>Holy Basil</item>
         <item>The Spice Room </item>
         <item>Temasek</item>
         <item>Devon</item>
         <item>Jasmin1</item>
-        <item>Cho Cho San</item>
+        <item>McDonalds</item>
         <item>Hello Auntie</item>
         <item>Bay Vista</item>
         <item>Seabay Kitchen</item>
         <item>Miles n Co</item>
 
 
-
     </string-array>
 
 
     <string-array name="cuisine">
-        <item>Fast Food</item>
+        <item>Japanese, Fusion</item>
         <item>Mexican</item>
-        <item>Thai</item>
+        <item>Thai, Laos</item>
         <item>Indian</item>
         <item>Malaysian</item>
         <item>Cafe Food</item>
-        <item>Lebanese</item>
-        <item>Japanese</item>
-        <item>Vietnamese</item>
+        <item>Lebanese, Middle Eastern</item>
+        <item>Fast Food</item>
+        <item>Vietnamese, Fusion</item>
         <item>Desserts</item>
         <item>Chinese</item>
         <item>Cafe Food</item>
@@ -38,14 +38,14 @@
 
 
     <string-array name="location">
-        <item>Auburn</item>
+        <item>Potts Point</item>
         <item>CBD</item>
         <item>CBD</item>
         <item>Circular Quay</item>
         <item>Parramatta</item>
         <item>Surry Hills</item>
         <item>Auburn</item>
-        <item>Potts Point</item>
+        <item>Auburn</item>
         <item>Haymarket</item>
         <item>Brighton-Le-Sands</item>
         <item>Eastwood</item>
@@ -53,6 +53,22 @@
 
     </string-array>
 
+    <string-array name="foodcost">
+        <item>$120 for two</item>
+        <item>$100 for two</item>
+        <item>$80 for two</item>
+        <item>$80 for two</item>
+        <item>$50 for two</item>
+        <item>$60 for two</item>
+        <item>$40 for two</item>
+        <item>$30 for two</item>
+        <item>$70 for two</item>
+        <item>$40 for two</item>
+        <item>$40 for two</item>
+        <item>$35 for two</item>
+
+
+    </string-array>
 
 
 </resources>
